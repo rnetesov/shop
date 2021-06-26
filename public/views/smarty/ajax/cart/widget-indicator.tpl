@@ -1,0 +1,1 @@
+{widget_cart_indicator}
